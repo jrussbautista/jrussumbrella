@@ -1,6 +1,6 @@
 ## Hi there, I'm James <img src="https://raw.githubusercontent.com/jrussumbrella/jrussumbrella/master/wave.gif" width="30px" alt="wave" />
 
-### I'm a fullstack web and mobile developer 🔥
+### I'm a fullstack web and mobile developer
 
 - I love building things from scratch
 - I'm in love with typescript
