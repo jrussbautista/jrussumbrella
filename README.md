@@ -2,7 +2,6 @@
 
 ### I'm a fullstack web and mobile developer
 
-- I love building things from scratch
 - I'm in love with javascript especially with typescript
 - I'm currently learning unit and integration test with jest and react testing library
 
