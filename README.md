@@ -1,4 +1,4 @@
-## Hi there, I'm James <img src="https://raw.githubusercontent.com/jrussumbrella/jrussumbrella/master/wave.gif" width="30px" alt="wave" />
+## Hi there, I'm James
 
 ### I'm a web developer
 
